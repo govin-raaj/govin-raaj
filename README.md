@@ -1,10 +1,13 @@
 # Hi there 👋, I'm Govin Raaj
-# A Data Science and Machine Learning Enthusiast from India
+## A Data Science and Machine Learning Enthusiast from India
 
 
 🎓 B.Tech in Artificial Intelligence and Data Science  
+
 💻 Passionate about Data Science, Machine Learning, and Deep Learning
+
 🚀 Exploring MLOps and modern database technologies  
+
 📫 How to reach me govin30raaj@gmail.com
 
 
