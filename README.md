@@ -6,7 +6,7 @@
 
 💻 Passionate about Data Science, Machine Learning, and Deep Learning
 
-🚀 Exploring MLOps and modern database technologies  
+🚀 Exploring MLOps 
 
 📫 How to reach me govin30raaj@gmail.com
 
