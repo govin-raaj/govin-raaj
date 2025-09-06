@@ -42,6 +42,7 @@
   <img src="https://miro.medium.com/1*Af6LIjioOYzuJQjeA5U5zQ.png" width="60" height="40"/> <!-- DVC -->
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQskxVReeUaf9rOnhewKyli4gH0nvT3jmarkA&s" width="40" height="40"/><!-- prometheus -->
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUF-muR9xjLAGhW8rtSHctBtCkQAfAbIIV-w&s" width="40" height="40"/><!--grafana-->
+  <img src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg" width="40" height="40"/><!--kubernetes-->
   
 </p>
 
