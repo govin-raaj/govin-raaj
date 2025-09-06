@@ -43,7 +43,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQskxVReeUaf9rOnhewKyli4gH0nvT3jmarkA&s" width="40" height="40"/><!-- prometheus -->
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUF-muR9xjLAGhW8rtSHctBtCkQAfAbIIV-w&s" width="40" height="40"/><!--grafana-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/800px-Kubernetes_logo_without_workmark.svg.png" width="40" height="40"/><!--kubernetes-->
-  
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="40" height="40"/><!-- aws-->
 </p>
 
 
